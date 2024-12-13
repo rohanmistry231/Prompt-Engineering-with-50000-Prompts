@@ -19,64 +19,64 @@ By mastering prompt engineering, users can maximize the effectiveness of AI tool
 
 This repository is divided into 20 folders, each representing a key domain or industry. Click on the folder names below to navigate directly to them:
 
-1. [**ChatGPT Prompts Mastery EVERYTHING You NEED to KNOW**](./01%20ChatGPT%20Prompts%20Mastery%20EVERYTHING%20you%20NEED%20to%20KNOW%20from%20start%20to%20finish/)
+1. [**ChatGPT Prompts Mastery EVERYTHING You NEED to KNOW**](./50000+%20Prompts/01%20ChatGPT%20Prompts%20Mastery%20EVERYTHING%20you%20NEED%20to%20KNOW%20from%20start%20to%20finish/)
    - Comprehensive coverage of essential concepts, techniques, and examples for prompt engineering.
 
-2. [**ChatGPT Prompts Mastery for Students Learning**](./02%20ChatGPT%20Prompts%20Mastery%20for%20Students%20Learning/)
+2. [**ChatGPT Prompts Mastery for Students Learning**](./50000+%20Prompts/02%20ChatGPT%20Prompts%20Mastery%20for%20Students%20Learning/)
    - Tailored prompts for enhancing study routines, understanding complex topics, and preparing for exams.
 
-3. [**ChatGPT Prompts Mastery for Educators or Teachers**](./03%20ChatGPT%20Prompts%20Mastery%20for%20Educators%20or%20Teachers/)
+3. [**ChatGPT Prompts Mastery for Educators or Teachers**](./50000+%20Prompts/03%20ChatGPT%20Prompts%20Mastery%20for%20Educators%20or%20Teachers/)
    - Prompts designed to create lesson plans, explain concepts, and provide constructive feedback to students.
 
-4. [**ChatGPT Prompts Mastery for Creative Writing**](./04%20ChatGPT%20Prompts%20Mastery%20for%20Creative%20Writing/)
+4. [**ChatGPT Prompts Mastery for Creative Writing**](./50000+%20Prompts/04%20ChatGPT%20Prompts%20Mastery%20for%20Creative%20Writing/)
    - A collection of prompts for story development, character creation, and overcoming writer’s block.
 
-5. [**ChatGPT Prompts Mastery for Market Research**](./05%20ChatGPT%20Prompts%20Mastery%20for%20Market%20Research/)
+5. [**ChatGPT Prompts Mastery for Market Research**](./50000+%20Prompts/05%20ChatGPT%20Prompts%20Mastery%20for%20Market%20Research/)
    - Focused on crafting prompts to gather insights, analyze trends, and create surveys.
 
-6. [**ChatGPT Prompts Mastery for Content Creation**](./06%20ChatGPT%20Prompts%20Mastery%20for%20Content%20Creation/)
+6. [**ChatGPT Prompts Mastery for Content Creation**](./50000+%20Prompts/06%20ChatGPT%20Prompts%20Mastery%20for%20Content%20Creation/)
    - Includes prompts for blog writing, social media posts, SEO optimization, and more.
 
-7. [**ChatGPT Prompts Mastery for Productivity & Time Management**](./07%20ChatGPT%20Prompts%20Mastery%20for%20Productivity%20and%20Time%20Management/)
+7. [**ChatGPT Prompts Mastery for Productivity & Time Management**](./50000+%20Prompts/07%20ChatGPT%20Prompts%20Mastery%20for%20Productivity%20and%20Time%20Management/)
    - Helps in setting goals, managing schedules, and enhancing efficiency.
 
-8. [**ChatGPT Prompts Mastery for Digital Marketing**](./08%20ChatGPT%20Prompts%20Mastery%20for%20Digital%20Marketing/)
+8. [**ChatGPT Prompts Mastery for Digital Marketing**](./50000+%20Prompts/08%20ChatGPT%20Prompts%20Mastery%20for%20Digital%20Marketing/)
    - Prompts to create marketing strategies, ad copies, and audience engagement plans.
 
-9. [**ChatGPT Prompts Mastery for Small Business Owners**](./09%20ChatGPT%20Prompts%20Mastery%20for%20Small%20Business%20Owner/)
+9. [**ChatGPT Prompts Mastery for Small Business Owners**](./50000+%20Prompts/09%20ChatGPT%20Prompts%20Mastery%20for%20Small%20Business%20Owner/)
    - Focused prompts for business planning, customer interaction, and growth strategies.
 
-10. [**ChatGPT Prompts Mastery for Social Media Marketing**](./10%20ChatGPT%20Prompts%20Mastery%20for%20Social%20Media%20Marketing/)
+10. [**ChatGPT Prompts Mastery for Social Media Marketing**](./50000+%20Prompts/10%20ChatGPT%20Prompts%20Mastery%20for%20Social%20Media%20Marketing/)
     - Prompts for creating engaging posts, analyzing trends, and maximizing reach.
 
-11. [**ChatGPT Prompts Mastery for E-commerce Entrepreneurs**](./11%20ChatGPT%20Prompts%20Mastery%20for%20E-commerce%20Entrepreneurs/)
+11. [**ChatGPT Prompts Mastery for E-commerce Entrepreneurs**](./50000+%20Prompts/11%20ChatGPT%20Prompts%20Mastery%20for%20E-commerce%20Entrepreneurs/)
     - Specialized prompts for product descriptions, sales strategies, and customer support.
 
-12. [**ChatGPT Prompts Mastery for Language Learning**](./12%20ChatGPT%20Prompts%20Mastery%20for%20Language%20Learning/)
+12. [**ChatGPT Prompts Mastery for Language Learning**](./50000+%20Prompts/12%20ChatGPT%20Prompts%20Mastery%20for%20Language%20Learning/)
     - Prompts to improve vocabulary, grammar, and conversational skills in multiple languages.
 
-13. [**ChatGPT Prompts for Bing AI (GPT-4) Free Access**](./13%20ChatGPT%20Prompts%20for%20Bing%20AI%20GPT-4%20Free%20Access/)
+13. [**ChatGPT Prompts for Bing AI (GPT-4) Free Access**](./50000+%20Prompts/13%20ChatGPT%20Prompts%20for%20Bing%20AI%20GPT-4%20Free%20Access/)
     - Designed for use with Bing AI’s GPT-4 implementation, enabling effective interactions.
 
-14. [**ChatGPT Prompts Mastery for Bing Image Generator (DALL-E)**](./14%20ChatGPT%20Prompts%20Mastery%20for%20Bing%20Image%20Generator%20DALL-E/)
+14. [**ChatGPT Prompts Mastery for Bing Image Generator (DALL-E)**](./50000+%20Prompts/14%20ChatGPT%20Prompts%20Mastery%20for%20Bing%20Image%20Generator%20DALL-E/)
     - Prompts to create stunning visuals using the DALL-E image generation tool.
 
-15. [**ChatGPT Prompts Mastery for Ethical Use**](./15%20ChatGPT%20Prompts%20Mastery%20for%20Ethical%20Use/)
+15. [**ChatGPT Prompts Mastery for Ethical Use**](./50000+%20Prompts/15%20ChatGPT%20Prompts%20Mastery%20for%20Ethical%20Use/)
     - Prompts ensuring responsible and ethical use of AI tools.
 
-16. [**ChatGPT Prompts Mastery to Earn Money**](./16%20ChatGPT%20Prompts%20Mastery%20to%20Earn%20Money/)
+16. [**ChatGPT Prompts Mastery to Earn Money**](./50000+%20Prompts/16%20ChatGPT%20Prompts%20Mastery%20to%20Earn%20Money/)
     - Creative prompts for monetizing skills and leveraging AI for financial gain.
 
-17. [**ChatGPT Prompts Mastery for Coding or Programming**](./17%20ChatGPT%20Prompts%20Mastery%20for%20Coding%20or%20Programming/)
+17. [**ChatGPT Prompts Mastery for Coding or Programming**](./50000+%20Prompts/17%20ChatGPT%20Prompts%20Mastery%20for%20Coding%20or%20Programming/)
     - Prompts for debugging, generating code snippets, and learning programming languages.
 
-18. [**ChatGPT Prompts Mastery for Latest AI Trends**](./18%20ChatGPT%20Prompts%20Mastery%20for%20Latest%20AI%20Trends/)
+18. [**ChatGPT Prompts Mastery for Latest AI Trends**](./50000+%20Prompts/18%20ChatGPT%20Prompts%20Mastery%20for%20Latest%20AI%20Trends/)
     - Explore cutting-edge AI developments with curated prompts.
 
-19. [**ChatGPT Prompts Mastery for Data Analysis**](./19%20ChatGPT%20Prompts%20Mastery%20for%20Data%20Analysis/)
+19. [**ChatGPT Prompts Mastery for Data Analysis**](./50000+%20Prompts/19%20ChatGPT%20Prompts%20Mastery%20for%20Data%20Analysis/)
     - Prompts for analyzing datasets, generating reports, and uncovering insights.
 
-20. [**ChatGPT Prompts Mastery for Diverse Industries**](./20%20ChatGPT%20Prompts%20Mastery%20for%20Diverse%20Industries/)
+20. [**ChatGPT Prompts Mastery for Diverse Industries**](./50000+%20Prompts/20%20ChatGPT%20Prompts%20Mastery%20for%20Diverse%20Industries/)
     - Industry-specific prompts for healthcare, finance, entertainment, and more.
 
 ---
