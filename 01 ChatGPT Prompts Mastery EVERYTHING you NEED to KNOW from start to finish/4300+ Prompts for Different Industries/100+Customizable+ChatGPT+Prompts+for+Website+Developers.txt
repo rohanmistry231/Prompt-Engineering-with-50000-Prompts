@@ -1,0 +1,104 @@
+Please customize these questions to align with your specific goals and area of expertise 
+
+1. Generate engaging welcome messages for website visitors.
+2. Create personalized recommendations for products or services.
+3. Generate dynamic content for blog posts or articles.
+4. Create interactive FAQs for customer support.
+5. Generate unique email subject lines for marketing campaigns.
+6. Create social media post captions for different platforms.
+7. Generate creative names for new website features or sections.
+8. Create dynamic chatbot responses for customer interactions.
+9. Generate content for landing pages to increase conversions.
+10. Create automated responses for contact forms and emails.
+11. Generate call-to-action buttons with personalized messages.
+12. Create dynamic product descriptions for e-commerce websites.
+13. Generate personalized error messages for form validations.
+14. Create unique meta descriptions for better SEO.
+15. Generate creative taglines for website headers.
+16. Create dynamic pricing options for products or services.
+17. Generate unique testimonials for credibility and trust.
+18. Create interactive quizzes or polls for user engagement.
+19. Generate creative captions for image galleries or sliders.
+20. Create personalized welcome emails for new subscribers.
+21. Generate dynamic pricing calculators for complex products.
+22. Create personalized thank-you messages for completed actions.
+23. Generate creative headlines for website banners or sliders.
+24. Create dynamic pop-up messages for special offers or promotions.
+25. Generate interactive surveys to gather user feedback.
+26. Create personalized error messages for login forms.
+27. Generate creative captions for portfolio items or projects.
+28. Create dynamic countdown timers for limited-time offers.
+29. Generate personalized onboarding messages for new users.
+30. Create interactive decision-making tools for users.
+31. Generate creative text for website navigation buttons.
+32. Create dynamic event schedules for conferences or webinars.
+33. Generate personalized recommendations based on user preferences.
+34. Create interactive progress bars for form submissions.
+35. Generate creative prompts for user-generated content campaigns.
+36. Create dynamic filters for product or content sorting.
+37. Generate personalized rewards or discount codes for loyal customers.
+38. Create interactive virtual assistants for website support.
+39. Generate creative subscription confirmation messages.
+40. Create dynamic image sliders with personalized captions.
+41. Generate personalized product configurations based on user input.
+42. Create interactive contact forms with context-aware responses.
+43. Generate creative error messages for 404 pages.
+44. Create personalized feedback forms for user insights.
+45. Generate dynamic content for personalized user dashboards.
+46. Create interactive calculators for financial or health-related websites.
+47. Generate personalized reminders for upcoming events or appointments.
+48. Create dynamic notification messages for user actions.
+49. Generate creative prompts for user-generated reviews or testimonials.
+50. Create personalized shipping options based on user location.
+51. Generate dynamic voting systems for polls or contests.
+52. Create interactive guided tours for website features.
+53. Generate personalized rewards for completing specific actions.
+54. Create dynamic comparison tables for product comparisons.
+55. Generate creative prompts for user-generated stories or experiences.
+56. Create personalized confirmation messages for successful transactions.
+57. Generate dynamic loading messages for website responsiveness.
+58. Create interactive knowledge bases for self-help support.
+59. Generate personalized meeting invitations with event details.
+60. Create dynamic sign-up forms with customizable fields.
+61. Generate creative captions for image carousels or sliders.
+62. Create personalized questionnaires for user preferences.
+63. Generate dynamic progress indicators for multi-step forms.
+64. Create interactive feedback polls for user satisfaction.
+65. Generate personalized welcome messages for user accounts.
+66. Create dynamic countdown timers for product launches.
+67. Generate creative prompts for user-generated artwork or designs.
+68. Create personalized sign-in prompts with context-aware messages.
+69. Generate dynamic weather forecasts based on user location.
+70. Create interactive booking forms for appointments or reservations.
+71. Generate personalized congratulatory messages for achievements.
+72. Create dynamic search filters for website content.
+73. Generate creative prompts for user-generated recipes or cooking tips.
+74. Create personalized progress trackers for goal setting.
+75. Generate dynamic map directions based on user input.
+76. Create interactive feedback surveys for website improvements.
+77. Generate personalized reminders for subscription renewals.
+78. Create dynamic sign-up incentives for email subscriptions.
+79. Generate creative prompts for user-generated travel experiences.
+80. Create personalized exit-intent pop-ups with special offers.
+81. Generate dynamic calorie calculators for health and fitness websites.
+82. Create interactive language switchers for multilingual websites.
+83. Generate personalized birthday greetings for users.
+84. Create dynamic currency converters for international customers.
+85. Generate creative prompts for user-generated fashion looks or styles.
+86. Create personalized activity trackers for user engagement.
+87. Generate dynamic resource finders for specific website content.
+88. Create interactive loan calculators for financial websites.
+89. Generate personalized acknowledgment messages for user contributions.
+90. Create dynamic product configurators for customization.
+91. Generate creative prompts for user-generated travel itineraries.
+92. Create personalized recommendations for educational resources.
+93. Generate dynamic quiz results with personalized feedback.
+94. Create interactive subscription forms with customizable options.
+95. Generate personalized holiday greetings for website visitors.
+96. Create dynamic appointment schedulers for service bookings.
+97. Generate creative prompts for user-generated fitness routines.
+98. Create personalized onboarding checklists for new users.
+99. Generate dynamic donation calculators for charitable contributions.
+100. Create interactive progress trackers for online courses or programs.
+
+These customizable prompts can help website developers enhance user experiences, engage visitors, and create personalized interactions for various purposes.

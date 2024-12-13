@@ -1,0 +1,208 @@
+Here are 100 ChatGPT prompts you can use for creating advanced tables
+
+1. "Build a table to display product prices with 'Product Name' as columns and 'Price' as corresponding values."
+
+2. "Create a table outlining employee performance, using 'Employee Name,' 'Project Completed,' and 'Feedback Score' as columns."
+
+3. "Construct a table presenting monthly website traffic with 'Month' as columns and 'Number of Visits' as corresponding values."
+
+4. "Develop a table summarizing student grades with 'Student Name' as columns and 'Grade' as the corresponding values."
+
+5. "Design a table illustrating customer orders, including 'Order ID,' 'Product Name,' and 'Quantity' as columns."
+
+6. "Formulate a table showing inventory levels for various items, using 'Item Name' as columns and 'Quantity in Stock' as corresponding values."
+
+7. "Build a table presenting daily temperature records, with 'Date' as columns and 'Temperature (°C)' as the corresponding values."
+
+8. "Create a table displaying book titles and their respective authors using 'Book Title' and 'Author' as columns."
+
+9. "Construct a table showcasing project timelines, including 'Project Name,' 'Start Date,' and 'End Date' as columns."
+
+10. "Design a table summarizing employee leave records, with 'Employee Name,' 'Leave Type,' and 'Number of Days' as columns."
+
+11. "Formulate a table illustrating household expenses, using 'Expense Category' as columns and 'Amount Spent' as corresponding values."
+
+12. "Build a table presenting student enrollments by course, with 'Course Name' as columns and 'Number of Enrollments' as corresponding values."
+
+13. "Create a table showing store sales by category, including 'Category Name' as columns and 'Sales Amount' as corresponding values."
+
+14. "Develop a table outlining project budget allocations, with 'Project Name,' 'Budget Type,' and 'Allocated Amount' as columns."
+
+15. "Construct a table displaying event attendees, using 'Event Name,' 'Attendee Name,' and 'Contact Information' as columns."
+
+16. "Design a table summarizing team members and their roles, with 'Team Member Name' and 'Role' as columns."
+
+17. "Formulate a table illustrating weekly exercise routines, with 'Day of the Week' as columns and 'Exercise Type' as corresponding values."
+
+18. "Build a table presenting customer feedback for a recent event, including 'Customer Name,' 'Feedback Score,' and 'Comments' as columns."
+
+19. "Create a table showcasing monthly website engagement metrics, with 'Month' as columns and 'Page Views' as corresponding values."
+
+20. "Develop a table outlining project milestones, using 'Milestone Name,' 'Due Date,' and 'Status' as columns."
+
+21. "Construct a table displaying customer demographics, including 'Age Range,' 'Gender,' and 'Location' as columns."
+
+22. "Design a table summarizing flight bookings, with 'Flight Number,' 'Departure Time,' and 'Destination' as columns."
+
+23. "Formulate a table illustrating student exam results, with 'Student Name,' 'Subject,' and 'Score' as columns."
+
+24. "Build a table presenting monthly expenses, including 'Expense Type,' 'Date,' and 'Amount' as columns."
+
+25. "Create a table showing product inventory by location, using 'Product Name' and 'Location' as columns."
+
+26. "Develop a table showcasing social media engagement, with 'Post Date,' 'Likes,' and 'Comments' as columns."
+
+27. "Construct a table outlining equipment maintenance schedules, including 'Equipment Name,' 'Last Maintenance Date,' and 'Next Maintenance Date' as columns."
+
+28. "Design a table summarizing project resource allocation, with 'Resource Name,' 'Project Name,' and 'Allocation Percentage' as columns."
+
+29. "Formulate a table illustrating volunteer hours for an event, with 'Volunteer Name,' 'Date,' and 'Hours Worked' as columns."
+
+30. "Build a table presenting product reviews, including 'Product Name,' 'Reviewer Name,' and 'Review Rating' as columns."
+
+31. "Create a table showcasing student attendance, using 'Student Name,' 'Date,' and 'Status' as columns."
+
+32. "Develop a table outlining customer orders by region, with 'Region' as columns and 'Order Count' as corresponding values."
+
+33. "Construct a table displaying project risks and mitigation plans, including 'Risk Description,' 'Impact,' and 'Mitigation Plan' as columns."
+
+34. "Design a table summarizing employee training progress, with 'Employee Name,' 'Training Module,' and 'Completion Status' as columns."
+
+35. "Formulate a table illustrating monthly subscription renewals, using 'Subscription Name,' 'Renewal Date,' and 'Status' as columns."
+
+36. "Build a table presenting website conversion rates, including 'Page Name' and 'Conversion Rate' as columns."
+
+37. "Create a table showing software bugs and their severity, with 'Bug Description,' 'Severity Level,' and 'Status' as columns."
+
+38. "Develop a table showcasing customer complaints, including 'Customer Name,' 'Complaint Type,' and 'Resolution Status' as columns."
+
+39. "Construct a table outlining project expenses, using 'Expense Type,' 'Date,' and 'Amount' as columns."
+
+40. "Design a table summarizing employee onboarding progress, with 'Employee Name,' 'Onboarding Task,' and 'Completion Status' as columns."
+
+41. "Formulate a table illustrating sales leads, with 'Lead Name,' 'Contact Information,' and 'Lead Source' as columns."
+
+42. "Build a table presenting event registrations, including 'Event Name,' 'Attendee Name,' and 'Registration Date' as columns."
+
+43. "Create a table showcasing software feature requests, using 'Feature Description,' 'Requester Name,' and 'Priority' as columns."
+
+44. "Develop a table outlining classroom seating arrangements, with 'Classroom Name,' 'Seat Number,' and 'Student Name' as columns."
+
+45. "Construct a table displaying customer satisfaction survey results, including 'Survey Date,' 'Overall Satisfaction,' and 'Comments' as columns."
+
+46. "Design a table summarizing weekly sales goals and achievements, with 'Week Number,' 'Goal,' and 'Achievement' as columns."
+
+47. "Formulate a table illustrating event sponsorships, with 'Sponsor Name,' 'Sponsored Event,' and 'Contribution Amount' as columns."
+
+48. "Build a table presenting employee work hours, using 'Employee Name,' 'Date,' and 'Hours Worked' as columns."
+
+49. "Create a table showing project deliverables and deadlines, with 'Deliverable Name,' 'Due Date,' and 'Assigned Team' as columns."
+
+50. "Develop a table showcasing website user sign-ups, including 'Sign-up Date,' 'User Name,' and 'Email Address' as columns."
+
+51. "Construct a table outlining customer inquiries, using 'Customer Name,' 'Inquiry Type,' and 'Date' as columns."
+
+52. "Design a table summarizing monthly expenses for a project, with 'Expense Category' and 'Expense Amount' as columns."
+
+53. "Formulate a table illustrating employee performance ratings, with 'Employee Name,' 'Manager Name,' and 'Performance Score' as columns."
+
+54. "Build a table presenting product features and their benefits, using 'Feature Name' and 'Benefits' as columns
+
+."
+
+55. "Create a table showcasing project team roles and responsibilities, with 'Team Member Name,' 'Role,' and 'Responsibilities' as columns."
+
+56. "Develop a table showing marketing campaign performance, with 'Campaign Name,' 'Impressions,' and 'Conversion Rate' as columns."
+
+57. "Construct a table displaying student course enrollments, using 'Student Name,' 'Course Name,' and 'Enrollment Date' as columns."
+
+58. "Design a table summarizing website accessibility ratings, with 'Page Name' and 'Accessibility Score' as columns."
+
+59. "Formulate a table illustrating software features and their implementation status, using 'Feature Name' and 'Implementation Status' as columns."
+
+60. "Build a table presenting project risks and their likelihood, with 'Risk Description,' 'Likelihood,' and 'Impact' as columns."
+
+61. "Create a table showcasing employee skills and certifications, using 'Employee Name,' 'Skill Name,' and 'Certification' as columns."
+
+62. "Develop a table outlining customer support tickets, with 'Ticket ID,' 'Customer Name,' and 'Issue Description' as columns."
+
+63. "Construct a table displaying product defects and their resolution status, using 'Defect ID,' 'Defect Description,' and 'Resolution Status' as columns."
+
+64. "Design a table summarizing marketing channel performance, with 'Channel Name,' 'Click-through Rate,' and 'Conversion Rate' as columns."
+
+65. "Formulate a table illustrating project goals and their achievement status, using 'Goal Description' and 'Achievement Status' as columns."
+
+66. "Build a table presenting employee training modules and completion status, using 'Employee Name,' 'Module Name,' and 'Completion Status' as columns."
+
+67. "Create a table showing student exam results and their performance trend, using 'Student Name,' 'Exam Date,' and 'Performance Trend' as columns."
+
+68. "Develop a table showcasing project resource availability, with 'Resource Name,' 'Resource Type,' and 'Availability Status' as columns."
+
+69. "Construct a table outlining customer purchase history, using 'Customer Name,' 'Product Purchased,' and 'Purchase Date' as columns."
+
+70. "Design a table summarizing employee benefits and their enrollment status, with 'Employee Name,' 'Benefit Name,' and 'Enrollment Status' as columns."
+
+71. "Formulate a table illustrating customer preferences and purchase patterns, with 'Customer Name,' 'Preference Type,' and 'Purchase Frequency' as columns."
+
+72. "Build a table presenting website user interactions, using 'User ID,' 'Interaction Type,' and 'Timestamp' as columns."
+
+73. "Create a table showcasing product specifications and their corresponding values, using 'Product Name' and 'Specification' as columns."
+
+74. "Develop a table outlining project dependencies and their completion status, using 'Dependency Description' and 'Completion Status' as columns."
+
+75. "Construct a table displaying website error logs, using 'Error Code,' 'Error Description,' and 'Timestamp' as columns."
+
+76. "Design a table summarizing employee promotions and their effective date, using 'Employee Name,' 'Promotion Date,' and 'New Role' as columns."
+
+77. "Formulate a table illustrating product sales by region, using 'Product Name,' 'Region,' and 'Sales Amount' as columns."
+
+78. "Build a table presenting project task assignments, using 'Task Name,' 'Assignee,' and 'Due Date' as columns."
+
+79. "Create a table showing customer churn rate by subscription type, using 'Subscription Type' and 'Churn Rate' as columns."
+
+80. "Develop a table showcasing employee engagement survey results, using 'Survey Date,' 'Engagement Score,' and 'Comments' as columns."
+
+81. "Construct a table outlining website feature usage, using 'Feature Name,' 'Usage Frequency,' and 'User Count' as columns."
+
+82. "Design a table summarizing customer complaints by product, using 'Product Name,' 'Complaint Type,' and 'Number of Complaints' as columns."
+
+83. "Formulate a table illustrating project performance metrics, using 'Project Name,' 'Completion Status,' and 'Client Satisfaction' as columns."
+
+84. "Build a table presenting event speaker details, using 'Speaker Name,' 'Topic,' and 'Contact Information' as columns."
+
+85. "Create a table showcasing student course evaluations, using 'Course Name,' 'Evaluation Score,' and 'Feedback' as columns."
+
+86. "Develop a table outlining product warranty details, using 'Product Name,' 'Warranty Duration,' and 'Coverage' as columns."
+
+87. "Construct a table displaying customer testimonials, using 'Customer Name,' 'Testimonial Text,' and 'Product/Service' as columns."
+
+88. "Design a table summarizing employee travel requests, using 'Employee Name,' 'Travel Date,' and 'Destination' as columns."
+
+89. "Formulate a table illustrating project stakeholder contact information, using 'Stakeholder Name,' 'Email Address,' and 'Phone Number' as columns."
+
+90. "Build a table presenting website user preferences, using 'User ID,' 'Preference Type,' and 'Preference Value
+
+' as columns."
+
+91. "Create a table showing product manufacturing costs, using 'Product Name,' 'Cost Per Unit,' and 'Total Cost' as columns."
+
+92. "Develop a table showcasing employee attendance trends, using 'Employee Name,' 'Month,' and 'Attendance Percentage' as columns."
+
+93. "Construct a table outlining customer order fulfillment times, using 'Order ID,' 'Order Date,' and 'Fulfillment Time' as columns."
+
+94. "Design a table summarizing project phases and their completion status, using 'Phase Name,' 'Start Date,' and 'Completion Status' as columns."
+
+95. "Formulate a table illustrating project collaboration tools and their usage, using 'Tool Name' and 'Usage Frequency' as columns."
+
+96. "Build a table presenting website subscription sign-ups, using 'Subscription Type,' 'Sign-up Date,' and 'Number of Sign-ups' as columns."
+
+97. "Create a table showcasing product features and their associated release dates, using 'Feature Name' and 'Release Date' as columns."
+
+98. "Develop a table outlining project documentation status, using 'Document Name,' 'Last Updated Date,' and 'Status' as columns."
+
+99. "Construct a table displaying customer demographic preferences, using 'Age Group,' 'Gender,' and 'Interest' as columns."
+
+100. "Design a table summarizing employee benefits and their respective costs, using 'Benefit Name' and 'Cost' as columns."
+
+
+Remember, precise prompts lead to organized and insightful tables. Happy table-making!

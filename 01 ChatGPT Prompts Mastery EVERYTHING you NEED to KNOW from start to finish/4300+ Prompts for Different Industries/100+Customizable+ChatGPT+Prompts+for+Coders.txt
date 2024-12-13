@@ -1,0 +1,111 @@
+100 customizable prompt examples for coders:
+
+1. Write a Python function that calculates the factorial of a given number.
+2. Create a program in Java to check if a number is prime or not.
+3. Implement a function in C++ to reverse a string.
+4. Build a JavaScript function to find the maximum element in an array.
+5. Write a Python script to count the occurrences of each word in a text file.
+6. Create a Java program to sort an array of integers using the bubble sort algorithm.
+7. Implement a C++ function to find the GCD (Greatest Common Divisor) of two numbers.
+8. Build a JavaScript function to check if a given string is a palindrome.
+9. Write a Python script to read data from a CSV file and display it.
+
+10. Create a Java program to calculate the area of a circle given its radius.
+11. Implement a C++ function to find the sum of all elements in a 2D array.
+12. Build a JavaScript function to shuffle the elements of an array.
+13. Write a Python program to generate Fibonacci numbers up to a given limit.
+14. Create a Java program to find the factorial of a number using recursion.
+15. Implement a C++ function to check if a string is an anagram of another string.
+16. Build a JavaScript function to find the average of elements in an array.
+17. Write a Python script to convert temperature from Celsius to Fahrenheit.
+18. Create a Java program to reverse a linked list.
+19. Implement a C++ function to find the length of a given string.
+
+20. Build a JavaScript function to remove duplicates from an array.
+21. Write a Python program to find the largest and smallest elements in an array.
+22. Create a Java program to perform matrix multiplication.
+23. Implement a C++ function to check if a number is a perfect square.
+24. Build a JavaScript function to find the index of a given element in an array.
+25. Write a Python script to calculate the area of a rectangle given its length and width.
+26. Create a Java program to check if a string is a valid palindrome.
+27. Implement a C++ function to reverse the order of words in a sentence.
+28. Build a JavaScript function to find the intersection of two arrays.
+29. Write a Python program to find the factorial of a number using a loop.
+
+30. Create a Java program to find the second largest element in an array.
+31. Implement a C++ function to check if a number is a prime palindrome.
+32. Build a JavaScript function to find the difference between two dates.
+33. Write a Python script to calculate the area of a triangle given its base and height.
+34. Create a Java program to implement binary search on a sorted array.
+35. Implement a C++ function to find the reverse of a given number.
+36. Build a JavaScript function to find the sum of all even numbers in an array.
+37. Write a Python program to check if a given number is a power of 2.
+38. Create a Java program to find the sum of digits of a number.
+39. Implement a C++ function to find the frequency of characters in a string.
+
+40. Build a JavaScript function to check if an array is sorted in ascending order.
+41. Write a Python script to find the LCM (Least Common Multiple) of two numbers.
+42. Create a Java program to find the largest element in a binary tree.
+43. Implement a C++ function to find the first non-repeated character in a string.
+44. Build a JavaScript function to find the union of two arrays.
+45. Write a Python program to find the sum of all prime numbers up to a given limit.
+46. Create a Java program to convert a decimal number to binary.
+47. Implement a C++ function to check if a number is a perfect number.
+48. Build a JavaScript function to find the average word length in a sentence.
+49. Write a Python script to find the common elements between two arrays.
+
+50. Create a Java program to find the frequency of elements in an array.
+51. Implement a C++ function to check if a given string is a pangram.
+52. Build a JavaScript function to find the product of all elements in an array.
+53. Write a Python program to find the area of a trapezoid given its bases and height.
+54. Create a Java program to find the sum of the digits of a factorial number.
+55. Implement a C++ function to find the number of vowels in a string.
+56. Build a JavaScript function to find the difference between two arrays.
+57. Write a Python script to check if a given number is an Armstrong number.
+58. Create a Java program to reverse a stack using recursion.
+59. Implement a C++ function to check if a given string is a palindrome ignoring spaces and punctuation.
+
+60. Build a JavaScript function to find the maximum subarray sum.
+61. Write a Python program to find the HCF (Highest Common Factor) of two numbers.
+62. Create a Java program to find the sum of the diagonal elements of a matrix
+63. Implement a C++ function to find the length of the last word in a string.
+64. Build a JavaScript function to find the common elements between multiple arrays.
+65. Write a Python script to convert a binary number to decimal.
+66. Create a Java program to find the sum of digits of a factorial number using recursion.
+67. Implement a C++ function to check if a given number is an abundant number.
+68. Build a JavaScript function to find the sum of digits of a given number.
+69. Write a Python program to find the area of a parallelogram given its base and height.
+
+70. Create a Java program to find the intersection of two linked lists.
+71. Implement a C++ function to find the number of words in a sentence.
+72. Build a JavaScript function to find the longest word in a sentence.
+73. Write a Python script to find the sum of all odd numbers up to a given limit.
+74. Create a Java program to find the kth smallest element in an array using quicksort.
+75. Implement a C++ function to check if a given string is a palindrome using recursion.
+76. Build a JavaScript function to find the sum of squares of elements in an array.
+77. Write a Python program to find the area of a circle given its radius using recursion.
+78. Create a Java program to find the sum of digits of a given number using recursion.
+79. Implement a C++ function to check if a given number is a power of 3.
+
+80. Build a JavaScript function to find the largest product of two elements in an array.
+81. Write a Python script to find the LCM (Least Common Multiple) of multiple numbers.
+82. Create a Java program to find the sum of elements in a binary tree using recursion.
+83. Implement a C++ function to find the number of digits in a given number.
+84. Build a JavaScript function to find the median of elements in an array.
+85. Write a Python program to check if a given number is a palindrome using recursion.
+86. Create a Java program to find the sum of elements in a linked list using recursion.
+87. Implement a C++ function to check if a given string is an anagram using recursion.
+88. Build a JavaScript function to find the second largest element in an array without sorting.
+89. Write a Python script to find the common elements between multiple arrays.
+
+90. Create a Java program to find the sum of digits of a given number without using loops.
+91. Implement a C++ function to check if a given number is a perfect square using recursion.
+92. Build a JavaScript function to find the sum of odd numbers in an array without using loops.
+93. Write a Python program to find the area of a triangle given its base and height using recursion.
+94. Create a Java program to find the largest element in a binary tree without using loops.
+95. Implement a C++ function to check if a given string is a palindrome ignoring spaces and cases using recursion.
+96. Build a JavaScript function to find the maximum subarray sum without using loops.
+97. Write a Python script to convert a binary number to decimal using recursion.
+98. Create a Java program to reverse a stack using linked lists.
+99. Implement a C++ function to check if a given number is an abundant number using recursion.
+100. Build a JavaScript function to find the common elements between multiple arrays without using loops.
