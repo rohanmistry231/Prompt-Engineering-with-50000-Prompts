@@ -1,0 +1,107 @@
+Here's a sample list of 100 ChatGPT customizable prompts for your lesson on Designing User-Centric Prompts for UX/UI Development:
+
+1. How can I improve the user experience on my website's homepage?
+2. Suggest ways to make our app's navigation more user-friendly.
+3. Help me come up with creative icons for our mobile app.
+4. What color scheme would create a calming atmosphere for our meditation app?
+5. Give ideas for enhancing the user interface of our e-commerce platform.
+6. Design a chatbot conversation that feels natural and engaging.
+7. How can I make our booking process smoother for users?
+8. Help me brainstorm unique login/signup options for our social networking app.
+9. What fonts would suit a professional look for our financial website?
+10. Provide suggestions for making our fitness app visually appealing.
+11. Create prompts for our quiz app to keep users motivated and excited.
+12. What layout design would work best for our news website?
+13. Help me choose a theme that matches the concept of our travel app.
+14. What kind of animation can we use to capture users' attention on our landing page?
+15. Give ideas for making our food delivery app's menu easy to navigate.
+16. Design an error message that reassures users and guides them back on track.
+17. Suggest interactive elements to make our educational platform more engaging.
+18. How can we optimize our e-learning app for accessibility and inclusivity?
+19. Provide prompts for onboarding new users to our productivity tool.
+20. What background images would resonate with users of our storytelling app?
+21. Help me decide on the most user-friendly placement of buttons in our game.
+22. Design prompts for our real estate app to help users find their dream homes.
+23. What layout can we use to present reviews and testimonials effectively?
+24. Give ideas for creating a seamless checkout process on our shopping app.
+25. How can we make our language learning app's exercises more interactive?
+26. Suggest ways to make our weather app's forecasts easy to understand.
+27. Help me come up with engaging prompts for our language translation tool.
+28. Design a progress tracker for our fitness app to keep users motivated.
+29. Provide prompts for our music streaming app to recommend personalized playlists.
+30. What interface elements can we use to enhance user engagement on our social media platform?
+31. How can we organize content on our recipe app to make it user-friendly?
+32. Suggest ways to simplify the registration process for our event booking app.
+33. Design prompts to help users find relevant articles on our news platform.
+34. What animations would create a delightful user experience for our kids' app?
+35. Give ideas for making our finance app's data visualization clear and insightful.
+36. Help me decide on a layout that showcases our fashion app's latest trends.
+37. How can we make our pet care app's advice and tips more accessible?
+38. Provide prompts for our dating app to encourage meaningful conversations.
+39. What layout would create a seamless flow for our travel booking website?
+40. Suggest ways to make our car rental app's booking process efficient.
+41. Design prompts for our job search app to help users find their dream jobs.
+42. How can we create an engaging user journey for our storytelling app?
+43. Help me come up with prompts that guide users through our meditation app.
+44. What interface elements can we use to display data insights on our analytics platform?
+45. Give ideas for making our art gallery app's exhibits interactive and informative.
+46. Suggest ways to enhance user engagement on our social networking platform.
+47. Design prompts for our fitness tracker app to keep users motivated and active.
+48. How can we create a user-centric experience for our health and wellness app?
+49. Provide ideas for making our education app's content easily digestible.
+
+
+
+50. What layout would work best for presenting product information on our e-commerce website?
+51. Help me design prompts for our language learning app's conversational practice.
+52. What user interface elements can we use to display real-time updates on our travel app?
+53. Suggest ways to make our finance app's budgeting tools user-friendly.
+54. Give ideas for creating interactive quizzes on our educational platform.
+55. How can we make our news app's headlines and summaries attention-grabbing?
+56. Design prompts for our fashion e-commerce app to provide personalized recommendations.
+57. What visual elements can we use to create a visually appealing profile page on our social media app?
+58. Help me come up with prompts that engage users in our fitness challenges on the app.
+59. Provide suggestions for making our cooking app's recipes easy to follow.
+60. What layout would showcase the variety of genres on our music streaming platform?
+61. Suggest ways to make our language translation app's translations accurate and natural.
+62. Design prompts for our gardening app to guide users in caring for their plants.
+63. How can we create an intuitive user experience for our productivity tool's task management?
+64. Give ideas for making our travel app's booking process seamless and efficient.
+65. What interface elements can we use to highlight key features on our software platform?
+66. Help me design prompts for our photography app's editing and filters.
+67. What layout would work best for displaying workout routines on our fitness app?
+68. Suggest ways to create an immersive user experience for our virtual reality app.
+69. Provide prompts for our language learning app to practice pronunciation.
+70. How can we make our weather app's forecasts more detailed and informative?
+71. Design prompts for our shopping app to help users discover new products.
+72. What interactive elements can we use to engage users on our educational platform?
+73. Help me come up with prompts that encourage users to share their travel experiences on the app.
+74. Provide ideas for making our finance app's charts and graphs easy to interpret.
+75. What layout would create a sense of exploration on our adventure game app?
+76. Suggest ways to make our meditation app's sessions customizable and personal.
+77. Design prompts for our fashion app to help users create stylish outfits.
+78. How can we create a smooth user experience for our navigation and map app?
+79. Give ideas for making our social networking app's user profiles stand out.
+80. What visual elements can we use to capture the essence of different cuisines on our food delivery app?
+81. Help me design prompts for our art app to explore various art styles.
+82. What layout would showcase different camera modes on our photography app?
+83. Suggest ways to make our fitness app's progress tracking motivating and rewarding.
+84. Provide prompts for our travel app to inspire users with destination ideas.
+85. How can we create an organized and user-friendly interface for our note-taking app?
+86. Design prompts for our recipe app to guide users through cooking step by step.
+87. What interactive elements can we use to encourage user engagement on our social media platform?
+88. Help me come up with prompts for our pet care app to provide expert advice.
+89. Provide ideas for making our language learning app's lessons interactive and engaging.
+90. What layout would work best for displaying news categories on our news platform?
+91. Suggest ways to make our finance app's financial planning tools comprehensive.
+92. Design prompts for our music streaming app to help users discover new artists.
+93. How can we create an intuitive and user-centric interface for our shopping app's checkout process?
+94. Give ideas for making our education app's quizzes challenging and informative.
+95. What visual elements can we use to create an inviting user profile on our professional networking platform?
+96. Help me design prompts for our fitness app to motivate users through personalized goals.
+97. What layout would showcase different study modes on our education platform?
+98. Suggest ways to make our language translation app's language options diverse and inclusive.
+99. Provide prompts for our cooking app to help users create healthy recipes.
+100. How can we create a seamless and enjoyable user experience for our entertainment and gaming app?
+
+Feel free to customize and use these prompts to enhance your lesson on Designing User-Centric Prompts for UX/UI Development.
